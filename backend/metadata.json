@@ -1,0 +1,10 @@
+{
+    "model_type": "EfficientNetB0 + MobileNetV2 (Hybrid)",
+    "image_size": [
+        224,
+        224
+    ],
+    "num_classes": 80,
+    "epochs_trained": 25,
+    "final_val_accuracy": 0.625
+}

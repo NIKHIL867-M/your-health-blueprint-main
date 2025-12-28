@@ -1,0 +1,1523 @@
+
+{
+  "idli": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 60,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 0.5,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "dosa": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 5,
+    "serving_size": "1 piece (90g)",
+    "confidence": "high"
+  },
+  "uttapam": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 3,
+    "serving_size": "1 piece (80g)",
+    "confidence": "medium"
+  },
+  "vada": {
+    "category": "fried",
+    "meal_type": "breakfast",
+    "calories": 100,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 4,
+    "serving_size": "1 piece (40g)",
+    "confidence": "medium"
+  },
+  "medu_vada": {
+    "category": "fried",
+    "meal_type": "breakfast",
+    "calories": 120,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 5,
+    "serving_size": "1 piece (50g)",
+    "confidence": "medium"
+  },
+  "upma": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 140,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 3,
+    "serving_size": "1 bowl (150g)",
+    "confidence": "high"
+  },
+  "poha": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 180,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 6,
+    "serving_size": "1 plate (200g)",
+    "confidence": "high"
+  },
+  "roti": {
+    "category": "bread",
+    "meal_type": "lunch",
+    "calories": 80,
+    "protein": 2.5,
+    "carbs": 14,
+    "fat": 1.5,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "chapati": {
+    "category": "bread",
+    "meal_type": "lunch",
+    "calories": 80,
+    "protein": 2.5,
+    "carbs": 14,
+    "fat": 1.5,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "paratha": {
+    "category": "bread",
+    "meal_type": "breakfast",
+    "calories": 180,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 9,
+    "serving_size": "1 piece (80g)",
+    "confidence": "high"
+  },
+  "aloo_paratha": {
+    "category": "bread",
+    "meal_type": "breakfast",
+    "calories": 200,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 9,
+    "serving_size": "1 piece (90g)",
+    "confidence": "high"
+  },
+  "puri": {
+    "category": "fried",
+    "meal_type": "breakfast",
+    "calories": 120,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 5,
+    "serving_size": "1 piece (40g)",
+    "confidence": "high"
+  },
+  "bhatura": {
+    "category": "fried",
+    "meal_type": "lunch",
+    "calories": 280,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10,
+    "serving_size": "1 piece (140g)",
+    "confidence": "medium"
+  },
+  "naan": {
+    "category": "bread",
+    "meal_type": "dinner",
+    "calories": 200,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 6,
+    "serving_size": "1 piece (90g)",
+    "confidence": "high"
+  },
+  "ragi_dosa": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 130,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 3,
+    "serving_size": "1 piece (80g)",
+    "confidence": "medium"
+  },
+  "rice": {
+    "category": "staple",
+    "meal_type": "lunch",
+    "calories": 130,
+    "protein": 2.5,
+    "carbs": 28,
+    "fat": 0.3,
+    "serving_size": "1 cup cooked (150g)",
+    "confidence": "high"
+  },
+  "biryani": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 420,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 18,
+    "serving_size": "1 plate (250g)",
+    "confidence": "medium"
+  },
+  "pulao": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 320,
+    "protein": 8,
+    "carbs": 44,
+    "fat": 12,
+    "serving_size": "1 plate (220g)",
+    "confidence": "medium"
+  },
+  "curd_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 180,
+    "protein": 6,
+    "carbs": 26,
+    "fat": 4,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "high"
+  },
+  "tamarind_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 200,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 6,
+    "serving_size": "1 plate (200g)",
+    "confidence": "medium"
+  },
+  "lemon_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 190,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 6,
+    "serving_size": "1 plate (200g)",
+    "confidence": "medium"
+  },
+  "paneer_curry": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 280,
+    "protein": 16,
+    "carbs": 8,
+    "fat": 20,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "medium"
+  },
+  "butter_chicken": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 320,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 22,
+    "serving_size": "1 bowl (200g)",
+    "confidence": "medium"
+  },
+  "chicken_tikka_masala": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 340,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 22,
+    "serving_size": "1 bowl (210g)",
+    "confidence": "medium"
+  },
+  "dal_makhani": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 240,
+    "protein": 10,
+    "carbs": 18,
+    "fat": 14,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "high"
+  },
+  "rajma_chawal": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 280,
+    "protein": 10,
+    "carbs": 42,
+    "fat": 6,
+    "serving_size": "1 plate (250g)",
+    "confidence": "high"
+  },
+  "chana_masala": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 220,
+    "protein": 10,
+    "carbs": 28,
+    "fat": 8,
+    "serving_size": "1 bowl (200g)",
+    "confidence": "high"
+  },
+  "chole_bhature": {
+    "category": "street_food",
+    "meal_type": "breakfast",
+    "calories": 450,
+    "protein": 14,
+    "carbs": 56,
+    "fat": 18,
+    "serving_size": "1 plate (300g)",
+    "confidence": "medium"
+  },
+  "samosa": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 160,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 8,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "spring_roll": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 140,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 7,
+    "serving_size": "1 piece (45g)",
+    "confidence": "medium"
+  },
+  "pakora": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 100,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 5,
+    "serving_size": "2 pieces (40g)",
+    "confidence": "medium"
+  },
+  "onion_bhajiya": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 120,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 6,
+    "serving_size": "1 serving (50g)",
+    "confidence": "medium"
+  },
+  "aloo_tikki": {
+    "category": "snack",
+    "meal_type": "snack",
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6,
+    "serving_size": "1 piece (60g)",
+    "confidence": "high"
+  },
+  "chaat": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 200,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 8,
+    "serving_size": "1 serving (120g)",
+    "confidence": "low"
+  },
+  "pani_puri": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 5,
+    "serving_size": "1 serving (80g)",
+    "confidence": "low"
+  },
+  "sev_tameta": {
+    "category": "snack",
+    "meal_type": "snack",
+    "calories": 180,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 9,
+    "serving_size": "1 serving (80g)",
+    "confidence": "medium"
+  },
+  "bhel_puri": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 160,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6,
+    "serving_size": "1 serving (100g)",
+    "confidence": "low"
+  },
+  "momos": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 140,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4,
+    "serving_size": "4 pieces (80g)",
+    "confidence": "medium"
+  },
+  "chikhalwali": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 110,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 5,
+    "serving_size": "1 piece (40g)",
+    "confidence": "low"
+  },
+  "kachori": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 200,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 10,
+    "serving_size": "1 piece (70g)",
+    "confidence": "medium"
+  },
+  "gulab_jamun": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 180,
+    "protein": 2,
+    "carbs": 26,
+    "fat": 8,
+    "serving_size": "2 pieces (50g)",
+    "confidence": "high"
+  },
+  "jalebi": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 220,
+    "protein": 1,
+    "carbs": 36,
+    "fat": 8,
+    "serving_size": "1 serving (60g)",
+    "confidence": "high"
+  },
+  "kheer": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 200,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 8,
+    "serving_size": "1 bowl (150g)",
+    "confidence": "high"
+  },
+  "halwa": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 240,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 11,
+    "serving_size": "1 serving (80g)",
+    "confidence": "high"
+  },
+  "barfi": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 200,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 8,
+    "serving_size": "1 piece (40g)",
+    "confidence": "high"
+  },
+  "laddu": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 180,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 8,
+    "serving_size": "1 piece (40g)",
+    "confidence": "high"
+  },
+  "rasgulla": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 140,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 2,
+    "serving_size": "2 pieces (60g)",
+    "confidence": "high"
+  },
+  "payesh": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "lassi": {
+    "category": "beverage",
+    "meal_type": "anytime",
+    "calories": 120,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 3,
+    "serving_size": "1 glass (200ml)",
+    "confidence": "high"
+  },
+  "buttermilk": {
+    "category": "beverage",
+    "meal_type": "anytime",
+    "calories": 60,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 1,
+    "serving_size": "1 glass (200ml)",
+    "confidence": "high"
+  },
+  "sweet_lassi": {
+    "category": "beverage",
+    "meal_type": "anytime",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 3,
+    "serving_size": "1 glass (200ml)",
+    "confidence": "high"
+  },
+  "masala_chai": {
+    "category": "beverage",
+    "meal_type": "breakfast",
+    "calories": 80,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3,
+    "serving_size": "1 cup (200ml)",
+    "confidence": "high"
+  },
+  "coffee": {
+    "category": "beverage",
+    "meal_type": "breakfast",
+    "calories": 60,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 3,
+    "serving_size": "1 cup (150ml)",
+    "confidence": "high"
+  },
+  "filter_coffee": {
+    "category": "beverage",
+    "meal_type": "breakfast",
+    "calories": 100,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 5,
+    "serving_size": "1 cup (150ml)",
+    "confidence": "high"
+  },
+  "fresh_juice": {
+    "category": "beverage",
+    "meal_type": "anytime",
+    "calories": 100,
+    "protein": 1,
+    "carbs": 22,
+    "fat": 0.5,
+    "serving_size": "1 glass (200ml)",
+    "confidence": "medium"
+  },
+  "coconut_water": {
+    "category": "beverage",
+    "meal_type": "anytime",
+    "calories": 45,
+    "protein": 0.5,
+    "carbs": 9,
+    "fat": 0.2,
+    "serving_size": "1 glass (200ml)",
+    "confidence": "high"
+  },
+  "milkshake": {
+    "category": "beverage",
+    "meal_type": "breakfast",
+    "calories": 200,
+    "protein": 6,
+    "carbs": 26,
+    "fat": 8,
+    "serving_size": "1 glass (250ml)",
+    "confidence": "medium"
+  },
+  "panipuri_water": {
+    "category": "beverage",
+    "meal_type": "snack",
+    "calories": 20,
+    "protein": 0,
+    "carbs": 4,
+    "fat": 0,
+    "serving_size": "1 serving (100ml)",
+    "confidence": "low"
+  },
+  "dal": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 150,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 2,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "high"
+  },
+  "sambar": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 120,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 2,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "high"
+  },
+  "rasam": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 60,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 1,
+    "serving_size": "1 bowl (180ml)",
+    "confidence": "high"
+  },
+  "aloo_curry": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 180,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 9,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "medium"
+  },
+  "mixed_vegetable_curry": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 140,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 6,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "medium"
+  },
+  "spinach_curry": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 100,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 4,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "medium"
+  },
+  "chickpea_curry": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 200,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 7,
+    "serving_size": "1 bowl (200g)",
+    "confidence": "high"
+  },
+  "methi_paratha": {
+    "category": "bread",
+    "meal_type": "breakfast",
+    "calories": 190,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 9,
+    "serving_size": "1 piece (85g)",
+    "confidence": "high"
+  },
+  "gobi_paratha": {
+    "category": "bread",
+    "meal_type": "breakfast",
+    "calories": 200,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 9,
+    "serving_size": "1 piece (90g)",
+    "confidence": "high"
+  },
+  "pudla": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 110,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 3,
+    "serving_size": "1 piece (60g)",
+    "confidence": "medium"
+  },
+  "dhokla": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 100,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 2,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "khichiyu": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 4,
+    "serving_size": "1 serving (120g)",
+    "confidence": "medium"
+  },
+  "thepla": {
+    "category": "bread",
+    "meal_type": "breakfast",
+    "calories": 120,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 5,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "dal_bhat": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 250,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 4,
+    "serving_size": "1 plate (250g)",
+    "confidence": "high"
+  },
+  "khichdi": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 200,
+    "protein": 8,
+    "carbs": 32,
+    "fat": 3,
+    "serving_size": "1 bowl (200g)",
+    "confidence": "high"
+  },
+  "thalipeeth": {
+    "category": "bread",
+    "meal_type": "breakfast",
+    "calories": 140,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4,
+    "serving_size": "1 piece (80g)",
+    "confidence": "medium"
+  },
+  "poori": {
+    "category": "fried",
+    "meal_type": "breakfast",
+    "calories": 130,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 6,
+    "serving_size": "1 piece (45g)",
+    "confidence": "high"
+  },
+  "luchi": {
+    "category": "fried",
+    "meal_type": "lunch",
+    "calories": 120,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 5,
+    "serving_size": "1 piece (45g)",
+    "confidence": "high"
+  },
+  "appam": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 100,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 2,
+    "serving_size": "1 piece (60g)",
+    "confidence": "medium"
+  },
+  "puttu": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 120,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 2,
+    "serving_size": "1 serving (80g)",
+    "confidence": "medium"
+  },
+  "semiya_upma": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 4,
+    "serving_size": "1 bowl (150g)",
+    "confidence": "high"
+  },
+  "rava_upma": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 4,
+    "serving_size": "1 bowl (140g)",
+    "confidence": "high"
+  },
+  "kesari_bath": {
+    "category": "sweet",
+    "meal_type": "breakfast",
+    "calories": 220,
+    "protein": 3,
+    "carbs": 32,
+    "fat": 9,
+    "serving_size": "1 serving (100g)",
+    "confidence": "high"
+  },
+  "sheera": {
+    "category": "sweet",
+    "meal_type": "breakfast",
+    "calories": 240,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 10,
+    "serving_size": "1 serving (100g)",
+    "confidence": "high"
+  },
+  "pongal": {
+    "category": "rice_dish",
+    "meal_type": "breakfast",
+    "calories": 200,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 6,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "handvo": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 140,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 5,
+    "serving_size": "1 piece (70g)",
+    "confidence": "medium"
+  },
+  "chikhalwali_vada": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 120,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 6,
+    "serving_size": "2 pieces (50g)",
+    "confidence": "low"
+  },
+  "paneer_pakora": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 140,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 8,
+    "serving_size": "3 pieces (60g)",
+    "confidence": "medium"
+  },
+  "aloo_samosa": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 160,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 8,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "meat_samosa": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 180,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9,
+    "serving_size": "1 piece (55g)",
+    "confidence": "medium"
+  },
+  "vegetable_momos": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 130,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3,
+    "serving_size": "4 pieces (80g)",
+    "confidence": "medium"
+  },
+  "meat_momos": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 160,
+    "protein": 8,
+    "carbs": 18,
+    "fat": 6,
+    "serving_size": "4 pieces (90g)",
+    "confidence": "medium"
+  },
+  "seekh_kebab": {
+    "category": "protein_rich",
+    "meal_type": "dinner",
+    "calories": 200,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 12,
+    "serving_size": "1 piece (70g)",
+    "confidence": "medium"
+  },
+  "tandoori_chicken": {
+    "category": "protein_rich",
+    "meal_type": "dinner",
+    "calories": 240,
+    "protein": 32,
+    "carbs": 2,
+    "fat": 11,
+    "serving_size": "1 piece (100g)",
+    "confidence": "high"
+  },
+  "chicken_tikka": {
+    "category": "protein_rich",
+    "meal_type": "dinner",
+    "calories": 220,
+    "protein": 28,
+    "carbs": 3,
+    "fat": 11,
+    "serving_size": "1 piece (80g)",
+    "confidence": "high"
+  },
+  "shami_kebab": {
+    "category": "fried",
+    "meal_type": "snack",
+    "calories": 180,
+    "protein": 10,
+    "carbs": 14,
+    "fat": 9,
+    "serving_size": "1 piece (60g)",
+    "confidence": "medium"
+  },
+  "mutton_curry": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 320,
+    "protein": 28,
+    "carbs": 4,
+    "fat": 22,
+    "serving_size": "1 bowl (200g)",
+    "confidence": "medium"
+  },
+  "fish_curry": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 240,
+    "protein": 26,
+    "carbs": 4,
+    "fat": 13,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "medium"
+  },
+  "prawn_curry": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 200,
+    "protein": 24,
+    "carbs": 3,
+    "fat": 10,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "medium"
+  },
+  "palak_paneer": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 260,
+    "protein": 14,
+    "carbs": 10,
+    "fat": 18,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "high"
+  },
+  "paneer_do_pyaza": {
+    "category": "curry",
+    "meal_type": "dinner",
+    "calories": 240,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 16,
+    "serving_size": "1 bowl (180g)",
+    "confidence": "medium"
+  },
+  "shahi_tukda": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 300,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 14,
+    "serving_size": "1 serving (100g)",
+    "confidence": "high"
+  },
+  "kheer_kadam": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "peda": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 190,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 7,
+    "serving_size": "1 piece (40g)",
+    "confidence": "high"
+  },
+  "mysore_pak": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 240,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 14,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "sooji_halwa": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 260,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 12,
+    "serving_size": "1 serving (100g)",
+    "confidence": "high"
+  },
+  "til_laddu": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 200,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 10,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "besan_laddu": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 210,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 10,
+    "serving_size": "1 piece (50g)",
+    "confidence": "high"
+  },
+  "kulfi": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 180,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 8,
+    "serving_size": "1 piece (80g)",
+    "confidence": "high"
+  },
+  "falooda": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 280,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10,
+    "serving_size": "1 serving (250ml)",
+    "confidence": "medium"
+  },
+  "khir": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 210,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 8,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "rabri": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 240,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 9,
+    "serving_size": "1 bowl (140g)",
+    "confidence": "high"
+  },
+  "gajar_halwa": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 220,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 11,
+    "serving_size": "1 serving (100g)",
+    "confidence": "high"
+  },
+  "lauki_halwa": {
+    "category": "sweet",
+    "meal_type": "anytime",
+    "calories": 200,
+    "protein": 2,
+    "carbs": 26,
+    "fat": 10,
+    "serving_size": "1 serving (100g)",
+    "confidence": "high"
+  },
+  "malpua": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 240,
+    "protein": 3,
+    "carbs": 32,
+    "fat": 11,
+    "serving_size": "2 pieces (60g)",
+    "confidence": "high"
+  },
+  "dahi_bhalle": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6,
+    "serving_size": "2 pieces (60g)",
+    "confidence": "high"
+  },
+  "imli_chaat": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 140,
+    "protein": 2,
+    "carbs": 26,
+    "fat": 3,
+    "serving_size": "1 serving (80g)",
+    "confidence": "low"
+  },
+  "aloo_chaat": {
+    "category": "street_food",
+    "meal_type": "snack",
+    "calories": 180,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 7,
+    "serving_size": "1 serving (100g)",
+    "confidence": "low"
+  },
+  "dahi_vada": {
+    "category": "snack",
+    "meal_type": "snack",
+    "calories": 160,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 7,
+    "serving_size": "1 piece (60g)",
+    "confidence": "medium"
+  },
+  "chole_kulche": {
+    "category": "street_food",
+    "meal_type": "breakfast",
+    "calories": 380,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 14,
+    "serving_size": "1 serving (250g)",
+    "confidence": "medium"
+  },
+  "kulche": {
+    "category": "bread",
+    "meal_type": "lunch",
+    "calories": 220,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 7,
+    "serving_size": "1 piece (100g)",
+    "confidence": "high"
+  },
+  "chole": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 160,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 3,
+    "serving_size": "1 bowl (150g)",
+    "confidence": "high"
+  },
+  "rajma": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 180,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 3,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "moong_dal": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 140,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 1.5,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "masoor_dal": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 150,
+    "protein": 9,
+    "carbs": 22,
+    "fat": 1,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "arhar_dal": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 160,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 1.5,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "black_gram_dal": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 170,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 2,
+    "serving_size": "1 bowl (160g)",
+    "confidence": "high"
+  },
+  "pav_bhaji": {
+    "category": "street_food",
+    "meal_type": "breakfast",
+    "calories": 340,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 15,
+    "serving_size": "1 serving (250g)",
+    "confidence": "medium"
+  },
+  "vada_pav": {
+    "category": "street_food",
+    "meal_type": "breakfast",
+    "calories": 280,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 12,
+    "serving_size": "1 serving (140g)",
+    "confidence": "high"
+  },
+  "misal_pav": {
+    "category": "street_food",
+    "meal_type": "breakfast",
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12,
+    "serving_size": "1 serving (250g)",
+    "confidence": "medium"
+  },
+  "frankies": {
+    "category": "street_food",
+    "meal_type": "lunch",
+    "calories": 400,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 18,
+    "serving_size": "1 piece (200g)",
+    "confidence": "low"
+  },
+  "dosa_masala": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 180,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 6,
+    "serving_size": "1 piece (120g)",
+    "confidence": "high"
+  },
+  "onion_dosa": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 5,
+    "serving_size": "1 piece (100g)",
+    "confidence": "high"
+  },
+  "plain_dosa": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 140,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 4,
+    "serving_size": "1 piece (90g)",
+    "confidence": "high"
+  },
+  "idli_sambar": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 2,
+    "serving_size": "2 idli (100g)",
+    "confidence": "high"
+  },
+  "idli_chutney": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 140,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 1.5,
+    "serving_size": "2 idli (100g)",
+    "confidence": "high"
+  },
+  "idiyappam": {
+    "category": "breakfast",
+    "meal_type": "breakfast",
+    "calories": 130,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 2,
+    "serving_size": "1 serving (100g)",
+    "confidence": "high"
+  },
+  "seviyyan_payesh": {
+    "category": "dessert",
+    "meal_type": "anytime",
+    "calories": 240,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 9,
+    "serving_size": "1 bowl (150g)",
+    "confidence": "high"
+  },
+  "coconut_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 220,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 8,
+    "serving_size": "1 plate (200g)",
+    "confidence": "medium"
+  },
+  "mint_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 6,
+    "serving_size": "1 plate (200g)",
+    "confidence": "medium"
+  },
+  "bisi_bele_bath": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 280,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 8,
+    "serving_size": "1 plate (250g)",
+    "confidence": "high"
+  },
+  "akki_roti": {
+    "category": "bread",
+    "meal_type": "lunch",
+    "calories": 160,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 5,
+    "serving_size": "1 piece (80g)",
+    "confidence": "medium"
+  },
+  "corn_bread": {
+    "category": "bread",
+    "meal_type": "lunch",
+    "calories": 170,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6,
+    "serving_size": "1 piece (80g)",
+    "confidence": "medium"
+  },
+  "multi_grain_bread": {
+    "category": "bread",
+    "meal_type": "lunch",
+    "calories": 150,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 4,
+    "serving_size": "1 piece (60g)",
+    "confidence": "high"
+  },
+  "baked_samosa": {
+    "category": "snack",
+    "meal_type": "snack",
+    "calories": 140,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 6,
+    "serving_size": "1 piece (50g)",
+    "confidence": "medium"
+  },
+  "vegetable_cutlet": {
+    "category": "snack",
+    "meal_type": "snack",
+    "calories": 120,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 5,
+    "serving_size": "1 piece (50g)",
+    "confidence": "medium"
+  },
+  "corn_cutlet": {
+    "category": "snack",
+    "meal_type": "snack",
+    "calories": 110,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 4,
+    "serving_size": "1 piece (45g)",
+    "confidence": "medium"
+  },
+  "egg_curry": {
+    "category": "curry",
+    "meal_type": "lunch",
+    "calories": 220,
+    "protein": 14,
+    "carbs": 6,
+    "fat": 16,
+    "serving_size": "1 bowl (150g)",
+    "confidence": "medium"
+  },
+  "scrambled_eggs": {
+    "category": "protein_rich",
+    "meal_type": "breakfast",
+    "calories": 150,
+    "protein": 12,
+    "carbs": 1,
+    "fat": 11,
+    "serving_size": "2 eggs (100g)",
+    "confidence": "high"
+  },
+  "boiled_eggs": {
+    "category": "protein_rich",
+    "meal_type": "breakfast",
+    "calories": 140,
+    "protein": 12,
+    "carbs": 1,
+    "fat": 10,
+    "serving_size": "2 eggs (100g)",
+    "confidence": "high"
+  },
+  "fried_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 280,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 10,
+    "serving_size": "1 plate (230g)",
+    "confidence": "medium"
+  },
+  "vegetable_fried_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 260,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 9,
+    "serving_size": "1 plate (220g)",
+    "confidence": "medium"
+  },
+  "egg_fried_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 300,
+    "protein": 10,
+    "carbs": 36,
+    "fat": 11,
+    "serving_size": "1 plate (240g)",
+    "confidence": "medium"
+  },
+  "chicken_fried_rice": {
+    "category": "rice_dish",
+    "meal_type": "lunch",
+    "calories": 320,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 12,
+    "serving_size": "1 plate (250g)",
+    "confidence": "medium"
+  }
+}
