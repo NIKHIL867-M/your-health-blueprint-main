@@ -1,0 +1,17 @@
+{
+  "name": "fittrack-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FitTrack GymBuddy & Food APIs",
+  "main": "gymBuddyApi.js",
+  "scripts": {
+    "start": "node gymBuddyApi.js",
+    "dev": "node gymBuddyApi.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "@google/generative-ai": "^0.21.0"
+  }
+}
