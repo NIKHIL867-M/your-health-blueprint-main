@@ -60,8 +60,7 @@ export default function FoodCapture() {
     formData.append("file", file); // Must be "file" to match backend
 
     try {
-      const response = await fetch("http://localhost:8002/predict-food", {
-        method: "POST",
+    const response = await fetch(`${import.meta.env.VITE_API_BASE_URL}/predict-food`, {        method: "POST",
         body: formData,
       });
 
@@ -81,8 +80,7 @@ const handleFileChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
   const formData = new FormData();
   formData.append('file', file); // ← CORRECT KEY NAME
   
-  const res = await fetch('http://localhost:8002/predict-food', {
-    method: 'POST',
+    const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/predict-food`, {    method: 'POST',
     body: formData,
   });
   const data: FoodPrediction = await res.json();
