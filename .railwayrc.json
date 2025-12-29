@@ -1,0 +1,11 @@
+.railwayrc.json{
+  "$schema": "https://raw.githubusercontent.com/railwayapp/railway/main/schema.json",
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "npm run build && npm run preview",
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 5
+  }
+}
