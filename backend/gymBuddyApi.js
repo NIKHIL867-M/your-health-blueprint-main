@@ -173,6 +173,45 @@ app.get("/api/gym-buddy/stats", (req, res) => {
   res.json({ stats: userStatsDB[userId] });
 });
 
+// 7. Food Prediction (Mock endpoint for food scanner)
+app.post("/predict-food", async (req, res) => {
+  try {
+    // Parse multipart form data
+    const file = req.file; // busboy middleware should provide this
+    
+    if (!file) {
+      return res.status(400).json({ success: false, error: "No file provided" });
+    }
+    
+    // Mock food prediction - returns random food item from database
+    const foodDatabase = [
+      { food: "Dosa", calories: 168, protein: 4, carbs: 28, fat: 5, serving_size: "1 dosa", confidence: 0.92 },
+      { food: "Biryani", calories: 290, protein: 15, carbs: 35, fat: 10, serving_size: "1 cup", confidence: 0.88 },
+      { food: "Rice", calories: 206, protein: 4, carbs: 45, fat: 0, serving_size: "1 cup", confidence: 0.85 },
+      { food: "Chapati", calories: 104, protein: 3, carbs: 18, fat: 3, serving_size: "1 piece", confidence: 0.90 },
+      { food: "Dal", calories: 198, protein: 12, carbs: 34, fat: 1, serving_size: "1 cup", confidence: 0.87 },
+    ];
+    
+    const randomFood = foodDatabase[Math.floor(Math.random() * foodDatabase.length)];
+    
+    res.json({
+      food: randomFood.food,
+      confidence: randomFood.confidence,
+      nutrition: {
+        calories: randomFood.calories,
+        protein: randomFood.protein,
+        carbs: randomFood.carbs,
+        fat: randomFood.fat,
+        serving_size: randomFood.serving_size,
+      }
+    });
+  } catch (err) {
+    console.error("Food prediction error:", err);
+    res.status(500).json({ success: false, error: "Failed to predict food" });
+  }
+});
+
+
 // -------------------- START SERVER --------------------
 const PORT = process.env.PORT || 3002;
 app.listen(PORT, () =>
